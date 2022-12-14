@@ -39,7 +39,7 @@
     "akeyless": "^2.0.15",
     "akeyless-cloud-id": "^1.0.0",
     "aws-sdk": "^2.628.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "js-yaml": "^3.14.1",
     "kubernetes-client": "^9.0.0",
     "lodash": "^4.17.21",
